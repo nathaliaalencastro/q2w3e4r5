@@ -1,0 +1,48 @@
+header{
+    background-color: darkgreen;
+}
+article{
+    background-color: hwb(98 0% 25% / 0.548);
+    height: 210px;
+    width: 765px;
+}
+footer{
+    background-color: rgb(25, 128, 25);
+    margin-top: 250px;
+    height: 70px;
+}
+footer, i{
+    font-size: 12px;
+}
+aside{
+    background-color: rgb(121, 201, 30);
+   
+    width: 350px;
+    height: 230px;
+    float: right;
+    margin-right: 70px;
+    padding-left: 15px;
+    margin-left: 15px;
+   
+}
+ul, li{
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 65px;
+    color: white;
+    
+}
+#article1{
+    width: 765px;
+    height: 210px;
+}
+header {
+    color: white;
+    
+}
+.titulo{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-align: center;
+    padding-top: 20px;
+}
