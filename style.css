@@ -16,16 +16,18 @@ footer{
 }
 #insta {
     font-size: 20px;
-    margin-left: 600px;
+    margin-left: 300px;
     color: white;
 }
-h4{
+
+footer, h4{
     color: white;
     text-align: center;
+    margin-top: 20px;
 }
 #gith{
     font-size: 20px;
-    margin-left: 200px;
+    
     color: white;
 }
 button:hover{
